@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:688/1*adMOPiCFjM7ypnbelVWzhw.png)
+
 
 <h1 align="center">Hi 👋, I'm Devanshi Goyal</h1>
 <h3 align="center">A passionate developer from India</h3>
