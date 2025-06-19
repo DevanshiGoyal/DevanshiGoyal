@@ -33,4 +33,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devanshigoyal&" alt="devanshigoyal" /></p>
 
+<img src="https://raw.githubusercontent.com/DevanshiGoyal/DevanshiGoyal/output/snake.svg" width = 1500 alt="Snake animation" />
+
 
